@@ -1,5 +1,3 @@
-// PARCIAL DE REDES NEURONALES
-// Nombre: Iván Fernando Vargas Ochoa
 
 // Para que solo se entrene una sola vez
 int a = 1;
