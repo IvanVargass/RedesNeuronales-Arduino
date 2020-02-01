@@ -10,7 +10,7 @@ Arduino es una plataforma de desarrollo basada en una placa electrónica de hard
 Link de la página oficial de Arduino: https://www.arduino.cc/
 
 # Backpropagation
-Si no conoces el entrenamiento de backpropagation te invito a que visites el siguiente link: https://es.wikipedia.org/wiki/Propagaci%C3%B3n_hacia_atr%C3%A1s
+Si no conoces el entrenamiento de backpropagation te invito a que visites el siguiente link: https://empresas.blogthinkbig.com/como-funciona-el-algoritmo-backpropagation-en-una-red-neuronal/
 
 
 
